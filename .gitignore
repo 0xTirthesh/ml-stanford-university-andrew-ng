@@ -1,3 +1,5 @@
 *.pdf
 *.zip
 */octave-workspace
+.idea/*
+token.mat
