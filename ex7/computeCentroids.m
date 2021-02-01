@@ -39,6 +39,10 @@ for i=1:K
 	end
 end
 
+% for k=1:K % for-loop over the centroids
+%   centroids(k, :) = mean(X(idx==k, :));
+% end
+
 % =============================================================
 
 
